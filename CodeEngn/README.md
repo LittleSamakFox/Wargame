@@ -4,3 +4,7 @@
 2020/05/25 [Basic RCE L03](https://github.com/LittleSamakFox/Wargame/blob/master/CodeEngn/Basic_RCE/L03/README.md)   
 2020/05/24 [Basic RCE L02](https://github.com/LittleSamakFox/Wargame/blob/master/CodeEngn/Basic_RCE/L02/README.md)   
 2020/05/24 [Basic RCE L01](https://github.com/LittleSamakFox/Wargame/blob/master/CodeEngn/Basic_RCE/L01/README.md)
+
+thks to co-worker teacher [@r4k0nb4k0n](https://github.com/r4k0nb4k0n)
+and co-worker [@presentnine](https://github.com/presentnine)
+and special thks to @0x736f796f756e67
